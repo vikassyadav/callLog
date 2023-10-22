@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747795932199",
+    "project_id": "calllog-820b5",
+    "storage_bucket": "calllog-820b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747795932199:android:aa88e44c62b28f16fb5a02",
+        "android_client_info": {
+          "package_name": "com.example.calllog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0MOGRxgm3wXySzWhluZaWpwXHAbuEhVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
